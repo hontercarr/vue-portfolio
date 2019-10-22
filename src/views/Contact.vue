@@ -13,6 +13,8 @@
                 </v-list-item-content>
             </v-list-item>
 
+            <v-divider></v-divider>
+
             <v-list-item three-line>
                 <v-list-item-content>
                     <v-list-item-title class="headline mb-1">Twitter</v-list-item-title>
@@ -24,6 +26,8 @@
                     </v-list-item-subtitle>
                 </v-list-item-content>
             </v-list-item>
+
+            <v-divider></v-divider>
 
             <v-list-item three-line>
                 <v-list-item-content>

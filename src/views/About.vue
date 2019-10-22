@@ -121,9 +121,8 @@ export default {
 
 <style scoped>
 .expansionPanels {
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .divider {
     margin-left: 25%;
