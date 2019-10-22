@@ -33,8 +33,6 @@
                     <v-expansion-panel-header class="panelHeader">
                         Education
                         <v-divider class="divider" vertical light></v-divider>
-                        <v-icon class="panelIcon">fab fa-sistrix</v-icon>
-                        <v-icon class="panelIcon">fab fa-medapps</v-icon>
                     </v-expansion-panel-header>
                     <v-expansion-panel-content>
                         During the beginning of high school I worked on small projects related
@@ -54,7 +52,6 @@
                     <v-expansion-panel-header class="panelHeader">
                         Resume
                         <v-divider class="divider" vertical light></v-divider>
-                        <v-icon class="panelIcon">fab fa-linkedin</v-icon>
                     </v-expansion-panel-header>
                     <v-expansion-panel-content>
                         As of right now I do not have a resume available for viewing. Due to
@@ -123,6 +120,7 @@ export default {
 .expansionPanels {
     margin-left: 20%;
     margin-right: 20%;
+    margin-top: 2%;
 }
 .divider {
     margin-left: 25%;

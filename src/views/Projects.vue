@@ -73,7 +73,7 @@ export default {
 .projectCard {
     align-content: center;
     text-align: left;
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
 }

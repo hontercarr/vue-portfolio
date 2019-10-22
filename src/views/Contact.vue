@@ -56,7 +56,9 @@ export default {
 .contactCard {
     align-content: center;
     text-align: left;
-    margin: 5%;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .contactIcon {
